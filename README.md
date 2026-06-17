@@ -59,9 +59,14 @@ Add screenshots of:
 
 ![Home Page](screenshots/Screenshot%202026-06-17%20160212.png)
 3. About Section
+![About Section](screenshots/Screenshot%202026-06-17%20161356.png)
 4. Programs Section
+![Programs Section](screenshots/Screenshot%202026-06-17%20161540.png)
+
 5. Volunteer Form
-6. Contact Section
+6. ![Volunteer Form](screenshots/Screenshot%202026-06-17%20161630.png)
+7. Contact Section
+8. ![Contact Section](screenshots/Screenshot%202026-06-17%20161704.png)
 
 ## Installation
 
